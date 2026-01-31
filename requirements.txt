@@ -1,1 +1,3 @@
-python-dotenv===1.2.1
+python-dotenv==1.2.1
+streamlit==1.53.1
+openai==2.16.0
